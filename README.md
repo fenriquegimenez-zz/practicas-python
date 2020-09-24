@@ -2,4 +2,4 @@
 
 A repo made to practice python!
 
-You can learn python at [JetBrains Academy](hyperskill.org)
+You can learn python at [JetBrains Academy](https://hyperskill.org)
