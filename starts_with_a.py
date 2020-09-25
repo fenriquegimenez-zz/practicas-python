@@ -17,10 +17,11 @@ def run():
 
         print(new_list)
 
-        return None
     except:
         if ' ' not in words:
             print('Please enter a list of words correctly')
+
+    return None
 
 
 if __name__ == "__main__":
