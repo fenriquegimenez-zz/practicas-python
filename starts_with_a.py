@@ -16,6 +16,8 @@ def run():
                 new_list.append(word)
 
         print(new_list)
+
+        return None
     except:
         if ' ' not in words:
             print('Please enter a list of words correctly')
