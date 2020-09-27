@@ -1,5 +1,5 @@
 # This program checks if the input passed by the user has double quotation marks and }
-# print it without them
+# print it without them.
 
 def run():
     string = input('Please enter a phrase: ')
